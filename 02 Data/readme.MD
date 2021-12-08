@@ -1,0 +1,2 @@
+- Raw (pre-processed) data can be found here: https://cideo365-my.sharepoint.com/:f:/g/personal/hugo_salas_alumnos_cide_edu/EmOb-RfYNvxItX6ChAsUq8gBDOenfYTLg_jXjwmIQsT5iw?e=L2fZ5i 
+- Clean and ready-to-use data can be found here: https://cideo365-my.sharepoint.com/:f:/g/personal/hugo_salas_alumnos_cide_edu/Etsfzk_32Z1AiM15mYy6ELwBE2bR1w6iTIKJ8nezbHh5qw?e=fPm8iG
